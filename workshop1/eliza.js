@@ -124,7 +124,7 @@ var rules = {
     "What similarities are there?",
   ],
   "~*x same ~*y": [
-    "What other connections do you see?",
+    "What other connections do you see, dummy?",
   ],
   "~*x no ~*y": [
     "Why not?",
