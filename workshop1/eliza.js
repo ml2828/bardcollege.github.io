@@ -57,7 +57,7 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
+    "Did you think I would forget about your feelings?~y?",
     "Why do you think I should recall ~y now?",
     "What about ~y?",
     "You mentioned ~y",
@@ -217,7 +217,7 @@ var rules = {
   ],
   "~*x what ~*y": [
     "Why do you ask?",
-    "Does that question interest you?",
+    "Does that question interest you, my dear?",
     "What is it you really want to know?",
     "What do you think?",
     "What comes to your mind when you ask that?",
