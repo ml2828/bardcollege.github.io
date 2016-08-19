@@ -165,7 +165,7 @@ var rules = {
     "Perhaps I am ~y in your fantasies.",
   ],
   "~*x you are ~*y": [
-    "What makes you think I am ~y?",
+    "I don't think therefore I am not~y?",
   ],
   "~*x because ~*y": [
     "Is that the real reason?",
